@@ -121,8 +121,8 @@
         "content": ["Safety", "Diversity", "Transparency"]
       },
       {
-        "titles": "Innovation",
-        "content": ["ATG", "AI", "Elevate"]
+        "title": "Innovation",
+        "contents": ["ATG", "AI", "Elevate"]
       }
     ]
   }
