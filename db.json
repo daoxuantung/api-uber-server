@@ -109,16 +109,20 @@
     ],
     "datas": [ 
       {
-        "company": ["About us", "Newsroom", "Investors", "Blog", "Careers"]
+        "titles": "Company",
+        "content": ["About us", "Newsroom", "Investors", "Blog", "Careers"]
       },
       {
-        "produtcs": ["Ride", "Drive", "Eat", "Uber for Business", "Uber Freight"]
+        "titles": "Products",
+        "content": ["Ride", "Drive", "Eat", "Uber for Business", "Uber Freight"]
       },
       {
-        "citizenships": ["Safety", "Diversity", "Transparency"]
+        "titles": "Global citizenship",
+        "content": ["Safety", "Diversity", "Transparency"]
       },
       {
-        "invovations": ["ATG", "AI", "Elevate"]
+        "titles": "Innovation",
+        "content": ["ATG", "AI", "Elevate"]
       }
     ]
   }
