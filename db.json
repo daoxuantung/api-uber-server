@@ -1,0 +1,94 @@
+{
+    "slides": [
+      {
+        "name": "Eat",
+        "title": "Discover delicious eats",
+        "icon": "https://www.uber-assets.com/image/upload/v1542256606/assets/7d/5a4852-3b2a-4466-96de-602dfb62dc1b/original/restaurant-outlined.svg",
+        "content": "Order delivery from restaurants you love.",
+        "text": "Order now",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1584996282/assets/0b/df0e6a-83a1-4921-88da-a2568701de01/original/eats-hero-desktop-5.jpg",
+        "isBorder": true
+      },
+      {
+        "name": "Ride",
+        "title": "Request a ride now",
+        "icon": "https://www.uber-assets.com/image/upload/v1542252540/assets/6d/87af17-3970-4d01-8936-1b0ba102ea6e/original/car-front-outlined.svg",
+        "content": "Order delivery from restaurants you love.",
+        "text": "Request now",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1558484011/assets/fb/fc9790-bb1c-427c-8504-684ae1def5e8/original/ride_2x.jpg",
+        "isBorder": false
+      },
+      {
+        "name": "Earn",
+        "title": "Get in the driver's seat and get paid",
+        "icon": "https://www.uber-assets.com/image/upload/v1558389718/assets/8e/33c8c0-f7e9-467c-924b-c70232943a47/original/Earn-filled.svg",
+        "content": "Drive on the platform with the largest network of active riders.",
+        "text": "Sign up to drive",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1578357180/assets/69/908bc0-7167-40d0-b046-af52170801f5/original/Product-Masthead-Desktop_2.jpg",
+        "isBorder": false
+      },
+      {
+        "name": "Freight",
+        "title": "A new direction for freight",
+        "icon": "https://www.uber-assets.com/image/upload/v1542257500/assets/14/aa5c19-33cc-4556-a8e3-8228253af608/original/truck-outlined.svg",
+        "content": "Greater transparency for shippers and carriers to do business together.",
+        "text": "Get shipper details",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1558484117/assets/8a/fa8125-145d-4b00-b916-0ee7041f826e/original/Freight_2x.jpg",
+        "isBorder": false
+      },
+      {
+        "name": "Business",
+        "title": "Move your teams and employees",
+        "icon": "https://www.uber-assets.com/image/upload/v1542252354/assets/e3/24ab47-806e-493b-9df8-748763238cc8/original/briefcase-outlined.svg",
+        "content": "Uber for Business helps to simplify business travel, expensing, and customer experiences.",
+        "text": "Learn more",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1558484175/assets/4d/9ea561-e479-440f-b79a-c56b0dc2e3d2/original/Business_2x.jpg",
+        "isBorder": false
+      },
+      {
+        "name": "Work",
+        "title": "Put your skills to work",
+        "icon": "https://www.uber-assets.com/image/upload/v1542255414/assets/5e/37af00-8b0a-48a2-adb3-fe19406d2d74/original/job-busser-outlined.svg",
+        "content": "Download the new Uber Works app and make money as a prep cook, customer service associate, and more.",
+        "text": "Find work",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1570130593/assets/5c/28bb83-9828-4abd-ad8a-319e67ff95bc/original/uber-com-uberworks-hero-tab-image.png",
+        "isBorder": false
+      },
+      {
+        "name": "Bike",
+        "title": "Bike or scoot there, with JUMP",
+        "icon": "https://www.uber-assets.com/image/upload/v1542252195/assets/69/e1d56d-4b83-4878-aab5-c37ea291e188/original/bike-outlined.svg",
+        "content": "Go farther and have more fun with electric bikes and scooters.",
+        "text": "get a ride",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1558484252/assets/70/5af028-9661-4f3f-97cf-e80e32d2d225/original/bikes_2x.jpg",
+        "isBorder": false
+      },
+      {
+        "name": "Elevate",
+        "title": "Ridesharing at new heights",
+        "icon": "https://www.uber-assets.com/image/upload/v1573109528/assets/7b/1cae91-fbf4-4e3e-9537-006b4a0dc3bc/original/copter_outlined.svg",
+        "content": "Building the future of transportation with urban aerial ridesharing.",
+        "text": "Learn more",
+        "coverUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1899,h_1068/v1558484293/assets/4e/f3c1d1-0eb6-4d01-9d18-38ab2e43b997/original/Fly_2x.jpg",
+        "isBorder": false
+      }
+    ],
+    "cards": [
+      {
+        "imageUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_450,h_300/v1585954525/assets/14/fcb55f-8d2c-4037-be40-96265930413e/original/business-eater-horz2x.png",
+        "title": "Work meals",
+        "content": "Delight your employees with their favorite meals delivered directly to anywhere they work."
+      },
+      {
+        "imageUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_450,h_300/v1585954625/assets/6a/4717e8-ac27-493e-a940-990e87d31f02/original/employee-travel-horz2x.png",
+        "title": "Employee rides",
+        "content": "Take the work out of work-related trips. Create ground travel and commute programs for employees."
+      },
+      {
+        "imageUrl": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_450,h_300/v1585954718/assets/e1/70f6a1-f828-414c-b3f1-fa39a6915711/original/ride-coordinator-horz2x.png",
+        "title": "Courtesy rides",
+        "content": "Aim to impress. Arrange door-to-door rides for your customers, clients, and guests."
+      }
+    ]
+  }
+  
