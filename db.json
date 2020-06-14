@@ -106,6 +106,20 @@
         "title": "Global citizenship",
         "content": "Read about our commitment to making a positive impact in the cities we serve."
       }
+    ],
+    "datas": [ 
+      {
+        "company": ["About us", "Newsroom", "Investors", "Blog", "Careers"]
+      },
+      {
+        "produtcs": ["Ride", "Drive", "Eat", "Uber for Business", "Uber Freight"]
+      },
+      {
+        "citizenships": ["Safety", "Diversity", "Transparency"]
+      },
+      {
+        "invovations": ["ATG", "AI", "Elevate"]
+      }
     ]
   }
   
